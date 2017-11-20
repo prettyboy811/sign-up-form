@@ -116,9 +116,16 @@ my-app/
     App.css
     App.js
     App.test.js
+    Guest.js
+    GuestEmail.js
+    GuestName.js
+    GuestPhone.js
     index.css
+    index.html
     index.js
-    logo.svg
+    logo.png
+
+
 ```
 
 For the project to build, **these files must exist with exact filenames**:
